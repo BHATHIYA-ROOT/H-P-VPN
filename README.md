@@ -18,7 +18,7 @@ wget https://raw.githubusercontent.com/BHATHIYA-ROOT/HORAPUSA-VPN/master/AutoScr
   ```
 <h3 align="center">Screenshots</h3>
 <p align="center">
-<img src="https://github.com/BHATHIYA-ROOT/HORAPUSA-VPN/raw/master/Snapshots/image.png">
+<img src="https://github.com/BHATHIYA-ROOT/HORAPUSA-VPN/master/Snapshots/image.png">
    </p>
    
 
