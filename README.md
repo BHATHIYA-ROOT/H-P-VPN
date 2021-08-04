@@ -14,17 +14,11 @@
 ## Installation :
 
   ```html
-wget https://raw.githubusercontent.com/xiihaiqal/AutoScriptVPS/master/AutoScript && chmod +x AutoScript && ./AutoScript
+wget https://raw.githubusercontent.com/BHATHIYA-ROOT/HORAPUSA-VPN/master/AutoScript && chmod +x AutoScript && ./AutoScript
   ```
 <h3 align="center">Screenshots</h3>
 <p align="center">
-<img src="https://github.com/xiihaiqal/AutoScriptVPS/raw/master/Snapshots/1.png">
-   </p>
-  <p align="center">
-  <img src="https://github.com/xiihaiqal/AutoScriptVPS/raw/master/Snapshots/3.png">
-   </p>
-  <p align="center">
-  <img src="https://github.com/xiihaiqal/AutoScriptVPS/raw/master/Snapshots/4.png">
+<img src="https://github.com/xiihaiqal/AutoScriptVPS/raw/master/Snapshots/image.png">
    </p>
    
 
@@ -53,5 +47,6 @@ wget https://raw.githubusercontent.com/xiihaiqal/AutoScriptVPS/master/AutoScript
 
 ## Credit :
 * Hora pusa
-
+* Rezoth™
+* KingKongVPN™
 
